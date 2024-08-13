@@ -12,6 +12,8 @@ services:
     value: production
   - key: NEW_NAME_POST_LIZHIFAN_LEAVING_TEAM
     value: test
+  - key: TEST_TEST
+    value: test
 # Uncomment the following to deploy this app as a static site on render
 # - type: web
 #   name: nextjs-static
