@@ -6,7 +6,6 @@ services:
   buildCommand: yarn; yarn build
   startCommand: yarn start
   autoDeploy: false
-  pullRequestPreviewsEnabled: true 
   envVars:
   - key: NODE_ENV
     value: production
