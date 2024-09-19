@@ -14,7 +14,7 @@ services:
   - key: TEST_TEST
     value: test
   - key: TEST_TEST_TEST
-    value: meowowowwwowwowowowwewewwew
+    value: meow
 # Uncomment the following to deploy this app as a static site on render
 # - type: web
 #   name: nextjs-static
