@@ -14,7 +14,7 @@ services:
     value: production
   - key: TEST_TEST
     value: test
-  - key: TEST_TEST_TEST
+  - key: TEST_TEST_TEST_VOW
     value: meofawOW
 # Uncomment the following to deploy this app as a static site on render
 # - type: web
