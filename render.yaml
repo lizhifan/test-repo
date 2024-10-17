@@ -1,3 +1,6 @@
+preview:
+  generation: automatic
+
 services:
 - type: web
   name: next-js
