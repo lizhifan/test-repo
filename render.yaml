@@ -1,5 +1,7 @@
 services:
 - type: web
+  previews: 
+    generation: automatic
   name: next-js
   runtime: node
   plan: starter
